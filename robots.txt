@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /public/
+Allow: /public/app
+
+Sitemap: https://miku.polines.ac.id/public/app/sitemap.xml
